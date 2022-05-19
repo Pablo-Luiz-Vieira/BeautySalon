@@ -42,7 +42,7 @@ BeautySalon é uma página institucional no formato One Page, responsiva, para u
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://pablo-luiz-vieira.github.io/beautysalon/). 
+Você pode visualizar o layout do projeto através [desse link](https://pablo-luiz-vieira.github.io/BeautySalon/). 
 
 ## 📝 Licença
 
